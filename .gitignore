@@ -20,3 +20,6 @@ build/
 .env.local
 .env.development
 .env.production
+
+# Ignore Visual Studio Code settings folder
+.vscode/
